@@ -103,6 +103,7 @@ Pages You May Like for User 2: ['AI & ML Community', 'Python Developers']
 ```bash
 git clone https://github.com/Coders-of-karachi.git
 cd Coders-of-karachi
+```
 
 ## 📈 Future Improvements
 

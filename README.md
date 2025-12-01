@@ -101,8 +101,8 @@ Pages You May Like for User 2: ['AI & ML Community', 'Python Developers']
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/Coders-of-karachi.git
-cd Coders-of-karachi
+git clone https://github.com/CodeBook_Data_Science_Project-Pure_Python.git
+cd CodeBook_Data_Science_Project-Pure_Python
 ```
 
 ## 📈 Future Improvements
